@@ -14,54 +14,54 @@
 
 - **发现音乐**
 
-![image-20210225141513450](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141513450.png)
+![](https://img-blog.csdnimg.cn/20210225145527786.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 - **推荐歌单**
 
-![image-20210225140644867](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225140644867.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145612672.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 - **最新音乐**
 
-### ![image-20210225140711219](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225140711219.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145642617.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 - **最新mv**
 
-![image-20210225140742272](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225140742272.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145806837.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 - **歌单详情页**
 
-![image-20210225140829213](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225140829213.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145819598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
-![image-20210225141405387](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141405387.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145833843.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 
 
 - **mv详情页**
 
-![image-20210225141150452](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141150452.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145850598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
-![image-20210225141224136](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141224136.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145916946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 - **搜索关键字后的结果页**
 
-![image-20210225141112599](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141112599.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225145948605.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
-![image-20210225141024956](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141024956.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225150017176.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
-![image-20210225141046547](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141046547.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225150030602.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 ### 项目的启动：
 
 - 首先创建一个vue-cli项目：vue create hmplayer
 - 进入到项目目录下，执行npm run serve命令
 
-![image-20210225141842914](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225141842914.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225150044289.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 
 
 ### 项目目录介绍
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210225143113395.png" alt="image-20210225143113395" style="zoom: 67%;" />
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210225150105585.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N1bWlzdTY2Ng==,size_16,color_FFFFFF,t_70)
 
 ### 项目的不足
 
